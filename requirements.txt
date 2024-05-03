@@ -4,5 +4,5 @@ idna==2.10
 loguru==0.5.3
 requests==2.24.0
 termcolor==1.1.0
-tqdm==4.49.0
+tqdm==4.66.3
 urllib3==1.26.5
